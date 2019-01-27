@@ -3,7 +3,7 @@ def position_taken?(board, index)
     if board == " "
     elsif false
     elsif index == "X"
-    elif "O"
+    elsif "O"
     # else true
   end
 end
